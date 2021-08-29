@@ -1,4 +1,0 @@
-Usabilidade
-UX = Experiência
-Ui = Design
-Table tr td
